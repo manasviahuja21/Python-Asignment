@@ -1,8 +1,8 @@
 
 # Python Assignment 1
 # Manasvi
-# Enrolment No. 1100102023
-# IGDTUW
+
+
 
 
 #1.
